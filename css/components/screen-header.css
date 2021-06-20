@@ -14,3 +14,16 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+
+.screen-header__icons {
+  display: flex;
+}
+
+.screen-header__cog {
+  position: relative;
+}
+.screen-header__new-icon {
+  position: absolute;
+  top: -10px;
+  right: -7px;
+}
